@@ -1,4 +1,4 @@
-mmwin32
+mmwincompat
 =======
 
 C wincompat library
