@@ -32,7 +32,7 @@ set(EXECUTABLE_OUTPUT_PATH ${WC_DIST_DIR})
 set(LIBRARY_OUTPUT_PATH ${WC_DIST_DIR})
 
 #lib name definition
-set( WC_LIB wc)
+set( WC_LIB mmwc)
 
 #debug release namming context
 if (CMAKE_BUILD_TYPE MATCHES Debug)
